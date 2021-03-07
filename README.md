@@ -4,7 +4,7 @@ This app is created based on udemy lessons
 
 # Usage
 
-```npx jsnote-nk serve```
+```$npx jsnote-nk serve```
 
 [jsnote-nk](https://www.npmjs.com/package/jsnote-nk) is a CLI for jbook-app project
 
