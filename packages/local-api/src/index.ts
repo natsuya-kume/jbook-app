@@ -28,7 +28,7 @@ export const serve = (
   } else {
     // ユーザーがcliをローカルマシンにインストールした場合
     const packagePath = require.resolve(
-      "@jsnote/local-client/build/index.html"
+      "@jsnote-nk/local-client/build/index.html"
     );
     app.use(express.static(path.dirname(packagePath)));
   }
